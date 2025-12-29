@@ -45,7 +45,7 @@ This project demonstrates the integration of speech recognition, text-to-speech,
 git clone https://github.com/your-username/jam-voice-assistant.git
 cd jam-voice-assistant
 
-###2️⃣ Install dependencies
+2️⃣ Install dependencies
 pip install speechrecognition pyttsx3 pywhatkit wikipedia pyjokes pyaudio
 
 ⚠️ Note:
